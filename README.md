@@ -28,11 +28,6 @@ Your daily game is saved automatically, so you can close gordle and return to it
 
 When a new New York Times Wordle of the Day is available, gordle uses it. If it can't be reached, gordle falls back to a local list of answers.
 
-## Credits
-
-`words.txt` comes from [tabatkins/wordle-list](https://github.com/tabatkins/wordle-list)  
-`answers.txt` comes from [dbraginskiy/wordle](https://github.com/dbraginskiy/wordle)
-
 ## License
 
 See [LICENSE](LICENSE).
